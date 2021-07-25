@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/remote-desktop/static/css/main.fd2a8c75.chunk.css",
+    "main.js": "/remote-desktop/static/js/main.0b6da958.chunk.js",
+    "main.js.map": "/remote-desktop/static/js/main.0b6da958.chunk.js.map",
+    "runtime-main.js": "/remote-desktop/static/js/runtime-main.53ec6592.js",
+    "runtime-main.js.map": "/remote-desktop/static/js/runtime-main.53ec6592.js.map",
+    "static/css/2.3558a866.chunk.css": "/remote-desktop/static/css/2.3558a866.chunk.css",
+    "static/js/2.c68cccc7.chunk.js": "/remote-desktop/static/js/2.c68cccc7.chunk.js",
+    "static/js/2.c68cccc7.chunk.js.map": "/remote-desktop/static/js/2.c68cccc7.chunk.js.map",
+    "static/js/3.38284153.chunk.js": "/remote-desktop/static/js/3.38284153.chunk.js",
+    "static/js/3.38284153.chunk.js.map": "/remote-desktop/static/js/3.38284153.chunk.js.map",
+    "index.html": "/remote-desktop/index.html",
+    "static/css/2.3558a866.chunk.css.map": "/remote-desktop/static/css/2.3558a866.chunk.css.map",
+    "static/css/main.fd2a8c75.chunk.css.map": "/remote-desktop/static/css/main.fd2a8c75.chunk.css.map",
+    "static/js/2.c68cccc7.chunk.js.LICENSE.txt": "/remote-desktop/static/js/2.c68cccc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ec6592.js",
+    "static/css/2.3558a866.chunk.css",
+    "static/js/2.c68cccc7.chunk.js",
+    "static/css/main.fd2a8c75.chunk.css",
+    "static/js/main.0b6da958.chunk.js"
+  ]
+}
