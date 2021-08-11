@@ -18,6 +18,26 @@ const Main = () => {
     <a href="https://remotedesktop.google.com">GO To RemoteDesktop</a>
     </Button>
   </Card.Body>
+  <Card.Body>
+    <img src={company} alt="" style={{width:"400px",marginBottom:"30px"}} />
+    <Card.Title>This is my remote desktop project</Card.Title>
+    <Card.Text>
+      you can click below link to move in my project
+    </Card.Text>
+    <Button variant="primary">
+    <a href="https://remotedesktop.google.com">GO To RemoteDesktop</a>
+    </Button>
+  </Card.Body>
+  <Card.Body>
+    <img src={company} alt="" style={{width:"400px",marginBottom:"30px"}} />
+    <Card.Title>This is my remote desktop project</Card.Title>
+    <Card.Text>
+      you can click below link to move in my project
+    </Card.Text>
+    <Button variant="primary">
+    <a href="https://remotedesktop.google.com">GO To RemoteDesktop</a>
+    </Button>
+  </Card.Body>
 </Card>
         </div>
     )
